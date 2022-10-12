@@ -5,6 +5,7 @@ This is the Responsive Landing page of the clipboard website from Frontend Mento
 I designed this Responsive landing page using HTML, CSS and TailwindCSS
 
 Deployed to netlify at:
+https://clipboardui-website.netlify.app/
 
 ## How to use the Project
 
