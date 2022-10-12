@@ -12,7 +12,9 @@ on your terminal run:
 
 - npm install
 
-* npm run build OR
+* npm run build
+
+OR
 
 - npm run watch,
 
